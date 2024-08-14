@@ -1,0 +1,21 @@
+*{
+	font-family:cursive, sans-serif;
+	}
+
+body{
+	background-color:#E5E5E5;
+	}
+
+#title{
+	text-align:center;
+	color:#008000;
+	background-color:#90EE90;
+	}
+.menu{
+	background-color:#ADD8E6;
+	color:#A52A2A;
+	}
+img{
+	width:150px;
+	height:auto;
+	}
